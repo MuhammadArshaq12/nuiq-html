@@ -1,0 +1,320 @@
+﻿
+<!DOCTYPE html>
+<html lang="en" class="bg-light-custom">
+
+<head>
+	<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="../assets/favicons/favicon.ico" type="icon">
+<link rel="apple-touch-icon" sizes="256x256" href="../assets/favicons/favicon.ico">		<title>Join NuIQ | Simplify Your Therapy Notes</title>
+
+
+	<!-- Essentials Libraries CSS Code,  will be used in all pages, contains Bootstrap5, Font Awesome  -->
+<link rel="stylesheet" href="../npm/bootstrap%405.3.3/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="../npm/bootstrap-icons%401.11.3/font/bootstrap-icons.min.css">	<link href="../common.css?v=18" rel="stylesheet" media="all">
+<link href="style.css?v=4" rel="stylesheet" media="all">
+<link href="../common/libs/emailverification/style.css" rel="stylesheet" media="all">
+		<script>
+		var subKey = '';
+		var grpKey = '';
+		var plan = 'Free';
+	</script>
+	<!-- Google tag (gtag.js) -->
+<script async="" src="../gtag/js?id=G-JKR9Y0T45K"></script>
+<script async="" src="../gtag/js-1?id=AW-722609817"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+	gtag('config', 'G-JKR9Y0T45K');
+	gtag('config', 'AW-722609817');
+</script>	<!-- Nutshell Analytics Code -->
+<script>
+	(function(w, d, o, a, m) {
+		w[o] = w[o] || function() {
+			(w[o].q = w[o].q || []).push(arguments);
+		};
+		w[o].e = 1 * new Date();
+		a = d.createElement('script');
+		m = d.getElementsByTagName('script')[0];
+		a.async = 1;
+		a.src = 'https://agent.marketingcloudfx.com/mcfx.js';
+		m.parentNode.insertBefore(a, m);
+	})(window, document, 'mcfx');
+
+	mcfx('create', 'ns-356985');
+</script>	<!-- Meta Pixel Code -->
+<script>
+	! function(f, b, e, v, n, t, s) {
+		if (f.fbq) return;
+		n = f.fbq = function() {
+			n.callMethod ?
+				n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+		};
+		if (!f._fbq) f._fbq = n;
+		n.push = n;
+		n.loaded = !0;
+		n.version = '2.0';
+		n.queue = [];
+		t = b.createElement(e);
+		t.async = !0;
+		t.src = v;
+		s = b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t, s)
+	}(window, document, 'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '746504077291179');
+	fbq('track', 'PageView');
+</script>
+<noscript>
+	<img height="1" width="1" style="display:none" src="../tr?id=746504077291179&ev=PageView&noscript=1">
+</noscript>
+<!-- End Meta Pixel Code --></head>
+
+<body>
+	<div class="my-container bg-light-custom signup">
+		<a href="../index.htm" title="Home"><img src="../assets/images/logos/nuiq-logo.png" alt="logo" class="logo mb-4"></a>
+		<div class="row w-100 justify-content-center g-0">
+			<div class="col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3" id="verifyEmailInfo">
+			</div>
+		</div>
+		<form action="javaScript:signupUser('user')" class="w-100" id="signupForm">
+			<input type="hidden" name="room_token" value="">
+			<div class="row w-100 justify-content-center g-0 mb-1">
+				<div class="col-auto">
+					<h1 class="h3">Sign Up</h1>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0 mb-2">
+				<div class="col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3 text-danger" id="error-text">
+
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0">
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="text" class="form-control" id="nameInput" placeholder="Full Name" required="" name="name">
+					<label for="nameInput">Full Name</label>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0">
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="email" class="form-control" id="emailInput" placeholder="name@example.com" required="" name="email" onchange="parseGmail()">
+					<label for="emailInput">Email</label>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0">
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="tel" class="form-control" id="phoneInput" placeholder="Phone" name="phone">
+					<label for="phoneInput">Phone</label>
+				</div>
+			</div>
+
+<!--
+			<div class="row w-100 justify-content-center g-0" >
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="text" class="form-control" id="orgInput" placeholder="Organization" required name="organization">
+					<label for="orgInput">Organization</label>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0" >
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="text" class="form-control" id="urlInput" placeholder="Website URL" name="website">
+					<label for="urlInput">Website</label>
+				</div>
+			</div>
+-->
+			<div class="row w-100 justify-content-center g-0">
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="password" class="form-control" id="passwordInput" placeholder="Password" required="" name="password">
+					<label for="passwordInput">Password</label>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0">
+				<div class="form-floating mb-4 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="password" class="form-control" id="cPasswordInput" placeholder="Password" required="" name="confirmpassword">
+					<label for="cPasswordInput">Confirm Password</label>
+				</div>
+			</div>
+<!--
+			<div class="row w-100 justify-content-center g-0" style="color:#000000" >
+				<div class="mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">How Did You Hear About Us?</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0" >
+				<div class="form-check  mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<div>
+						<input class="form-check-input cursor-pointer" onclick="toggleSourceBox()" type="radio" value="Word of Mouth" name="hearSource" id="hearSource1">
+						<label class="form-check-label cursor-pointer" for="hearSource1">
+							Word of Mouth
+						</label>
+					</div>
+
+					<div>
+						<input class="form-check-input cursor-pointer" onclick="toggleSourceBox()" type="radio" value="Social Media" name="hearSource" id="hearSource2">
+						<label class="form-check-label cursor-pointer" for="hearSource2">
+							Social Media
+						</label>
+					</div>
+
+					<div>
+						<input class="form-check-input cursor-pointer" onclick="toggleSourceBox()" type="radio" value="Events" name="hearSource" id="hearSource3">
+						<label class="form-check-label cursor-pointer" for="hearSource3">
+							Events
+						</label>
+					</div>
+
+					<div>
+						<input class="form-check-input cursor-pointer" onclick="toggleSourceBox()" type="radio" value="Google/Online" name="hearSource" id="hearSource4">
+						<label class="form-check-label cursor-pointer" for="hearSource4">
+							Google/Online
+						</label>
+					</div>
+
+					<div>
+						<input class="form-check-input cursor-pointer" onclick="toggleSourceBox()" type="radio" value="Other" name="hearSource" id="hearSource5">
+						<label class="form-check-label cursor-pointer" for="hearSource5">
+							Other
+						</label>
+					</div>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0" id="otherSourceBox" hidden>
+				<div class="form-floating mb-3 col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+					<input type="text" class="form-control" placeholder="Please Explain" id="otherSource" name="otherSource">
+					<label for="orgInput">Please Explain</label>
+				</div>
+			</div>
+-->
+			<div class="row w-100 justify-content-center g-0 mt-2 mb-3">
+				<div class="col-11 col-sm-9 col-md-7 col-lg-5 col-xl-3">
+<!--				<div class="form-check mb-3">
+						<input class="form-check-input" type="checkbox" id="smsConsent" name="smsConsent" checked required>
+						<label class="form-check-label small" for="smsConsent">
+							I Consent to Receive SMS Notifications and Alerts. Message frequency varies. Message & data rates may apply. Text HELP to <a href="https://www.google.com/search?q=NuIQ+pleasant+grove+utah&oq=nuiq+plea&gs_lcrp=EgZjaHJvbWUqBggBEEUYOzIGCAAQRRg5MgYIARBFGDvSAQg2NTE5ajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8#" target="_blank" rel="noopener noreferrer">(801) 462-5000</a> for assistance. You can reply STOP to unsubscribe at any time.
+						</label>
+					</div>
+-->					<button id="sign-up" type="submit" class="btn btn-primary w-100 button-animations">Sign Up</button>
+				</div>
+			</div>
+
+			<div class="row w-100 justify-content-center g-0 mb-3">
+				<div class="text-center forgot-pass" id="forgot-pass">
+					Already have an account? <a href="../login/index.htm" class="text-decoration-none ">Login</a>
+				</div>
+			</div>
+		</form>
+	</div>
+	<div class="email-verification-container hidden">
+  <div class="overlay hidden">
+    <h2 class="heading-ev">Email Validation</h2>
+    <p>We have sent a Validation code to your email address<br><span class="email-display"></span></p>
+    <div class="code-input">
+      <input type="number" maxlength="1">
+      <input type="number" maxlength="1">
+      <input type="number" maxlength="1">
+      <input type="number" maxlength="1">
+      <input type="number" maxlength="1">
+      <input type="number" maxlength="1">
+    </div>
+    <button class="submit-btn">Submit</button>
+    <p><a href="#" class="didnt-receive">Didn't receive code?</a></p>
+  </div>
+  <div class="resend-popup hidden">
+  <button class="close-popup">&times;</button>
+  <p class="mt-2">It takes a minute for the email to be received.<br> Additionally please check your spam folder.</p>
+  <div class="countdown">60</div>
+  <button class="send-again-btn hidden mt-1">Send Email Again</button>
+</div>
+
+</div>	<footer class="copy">
+	Copyright &copy; 2026 NuIQ LLC. All rights reserved. | <a href="../privacy/index.htm?tab=privacy-policy" class="">Privacy Policy</a> | <a href="../privacy/index-1.htm?tab=terms-of-service" class="">Terms of Service</a>  | V 2.0.9		
+</footer>
+<style>
+	:root{
+		--footer-height: 44px;
+	}
+	footer.copy {
+		background-color: var(--primaryActionBg);
+		margin-bottom: 0;
+		color: white;
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-bottom: 10px;
+		padding-top: 10px;
+		font-family: "Open Sans", sans-serif;
+		font-size: 1rem;
+		text-align: center;
+	}
+
+	footer.copy a {
+		color: white;
+	}
+
+	footer.copy a:hover {
+		filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.393));
+	}
+
+	footer.copy a:active {
+		text-decoration: none;
+	}
+	footer.copy .btn-report-issue{
+		background-color: white;
+		color: var(--primaryActionBg);
+		padding: 5px 10px;
+		transition: all 0.2s;
+		font-weight: bold;
+		margin-left: 10px;
+		font-size: 0.8rem;
+	}
+	footer.copy .btn-report-issue:active{
+		background-color: white;
+		color: var(--primaryActionBg);
+		transform: scale(0.95);
+		font-weight: bold;
+	}
+	footer.copy .reportIssuePopup .submit-btn{
+		transition: all 0.2s;
+	}
+	footer.copy .reportIssuePopup .submit-btn:active{
+		transform: scale(0.95);
+	}
+</style>
+<script>
+	function setFooterHeight() {
+		const footer = document.querySelector('footer.copy');
+		const footerHeight = footer.offsetHeight;
+		document.documentElement.style.setProperty('--footer-height', `${footerHeight}px`);
+	}
+	window.addEventListener('load', setFooterHeight);
+	window.addEventListener('resize', setFooterHeight);
+</script></body>
+<!-- Essentials Libraries JS Code,  will be used in all pages, contains Bootstrap5, JQuery and sweet alert  -->
+<script src="../npm/bootstrap%405.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../npm/jquery%403.6.0/dist/jquery.min.js"></script>
+<script src="../npm/sweetalert2%4011"></script>
+<script src="../common.js?v=28"></script>
+<script src="script.js?v=12"></script>
+<script src="../common/libs/emailverification/script.js"></script>
+<script>
+	// find width of the input field and set the width of the forgot-pass container to it as window loads or resizes
+	function setLoginWidth() {
+		const forgotPassContainer = document.getElementById("forgot-pass");
+		const emailInput = document.getElementById("emailInput");
+		forgotPassContainer.style.width = emailInput.offsetWidth + "px";
+	}
+	window.addEventListener("load", setLoginWidth);
+	window.addEventListener("resize", setLoginWidth);
+
+</script>
+
+</html>

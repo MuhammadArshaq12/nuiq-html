@@ -1,0 +1,93 @@
+.my-container {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+body > div.my-container{
+    height: auto;
+}
+h3 {
+    color: #000000;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+label {
+    color: #000000;
+}
+
+.form-control {
+    background-color: #d3d3d3;
+    color: #000000;
+    border: none;
+}
+
+.form-control:focus {
+    background-color: #cdcdcd;
+    color: #0f0f0f;
+    box-shadow: none;
+}
+
+
+.text-danger {
+    color: #dc3545;
+}
+
+
+.forgot-pass {
+    width: 300px;
+    color: #000000;
+}
+.logo {
+    width: 200px;
+ 
+}
+input.form-control:not(:placeholder-shown) ~ label {
+    color: rgb(153, 153, 153) !important;
+}
+
+.form-floating > .form-control-plaintext ~ label::after,
+.form-floating > .form-control:focus ~ label::after,
+.form-floating > .form-control:not(:placeholder-shown) ~ label::after,
+.form-floating > .form-select ~ label::after {
+    background-color: transparent;
+}
+.form-check-input:checked{
+    background-color: #378082;
+    border-color: #378082;
+}
+.form-check-label:hover,.form-check-input:hover+.form-check-label{
+    color: #f37154;
+}
+.hide {
+    display: none;
+}
+
+.form-check-input:focus {
+    box-shadow: none;
+}
+
+@media (max-width: 576px) {
+    .my-container {
+        padding: 10px;
+    }
+
+    h3 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .form-floating {
+        margin-bottom: 15px;
+    }
+
+    .forgot-password {
+        text-align: right;
+    }
+}
+
+@media (max-height: 668px) {
+    .logo {
+     
+    }
+}

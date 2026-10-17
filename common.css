@@ -1,0 +1,370 @@
+/* THIS FILE IS PRESENT IN ALL PLACES. DO NOT ADD/CHANGE ANY COMMON SELECTOR TO IT. IT MIGHT BREAK SOMETHING SOMEWHERE. */
+@import url('css2');
+@import url('css2-1');
+@import url('css2-2');
+@import url('css2-3');
+@import url('css-2');
+@import url('css-3');
+
+/* Global Style */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primaryActionBg: #378082;
+  --primaryActionHoverBg: #275a5b;
+  --primaryTextColor: #fff;
+  --outlinePrimaryBg: #fff;
+  --outlinePrimaryTextColor: black;
+  --outlinePrimaryBorderColor: #b4b2b7;
+  --disabledBg: #66717d;
+  --fontFamily: "DM Sans", sans-serif;
+  --fontSize: 1rem;
+  --fontWeightPrimary: 500;
+  --fontWeightOutline: 400;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff !important;
+  --bs-btn-bg: var(--primaryActionBg) !important;
+  --bs-btn-border-color: var(--primaryActionBg) !important;
+  --bs-btn-hover-color: #fff !important;
+  --bs-btn-hover-bg: var(--primaryActionHoverBg) !important;
+  --bs-btn-hover-border-color: var(--primaryActionBg) !important;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253 !important;
+  --bs-btn-active-color: #fff !important;
+  --bs-btn-active-bg: var(--primaryActionBg) !important;
+  --bs-btn-active-border-color: var(--primaryActionBg) !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
+  --bs-btn-disabled-color: #fff !important;
+  --bs-btn-disabled-bg: #66717d !important;
+  --bs-btn-disabled-border-color: #66717d !important;
+}
+
+.btn-outline-primary {
+  --bs-btn-color: var(--primaryActionBg) !important;
+  --bs-btn-border-color: var(--primaryActionBg) !important;
+  --bs-btn-hover-bg:  #fff !important;
+  --bs-btn-hover-border-color: var(--primaryActionBg) !important;
+  --bs-btn-focus-shadow-rgb: 13, 110, 253 !important;
+  --bs-btn-active-color: #fff !important;
+  --bs-btn-active-bg: var(--primaryActionBg) !important;
+  --bs-btn-active-border-color: var(--primaryActionBg) !important;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
+  --bs-btn-disabled-color: var(--primaryActionBg) !important;
+  --bs-btn-disabled-bg: transparent !important;
+  --bs-btn-disabled-border-color: var(--primaryActionBg) !important;
+  --bs-gradient: none !important;
+  font-size: 1rem !important;
+  backdrop-filter: blur(2px);
+}
+/* main {
+  padding-top: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+ */
+
+.mt-120-px {
+  margin-top: 7.5rem !important;
+}
+.gap-50-px {
+  gap: 3.125rem !important;
+}
+
+body > div.my-container {
+  min-height: calc(100vh - var(--footer-height));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+body > div.signup {
+  min-height: calc(100vh - 44px);
+}
+
+
+.my-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(25, 118, 210);
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px,
+    rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.my-btn:hover {
+  background-color: rgb(21, 101, 192);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px -1px,
+    rgba(0, 0, 0, 0.14) 0px 4px 5px 0px, rgba(0, 0, 0, 0.12) 0px 1px 10px 0px;
+}
+
+.my-btn:active {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 5px -3px,
+    rgba(0, 0, 0, 0.14) 0px 8px 10px 1px, rgba(0, 0, 0, 0.12) 0px 3px 14px 2px;
+}
+
+.flex-gap {
+  flex-grow: 5;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.logo {
+  width: 200px;
+}
+
+.bg-light-custom {
+  background-color: #ffffff !important;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: var(--primaryActionBg);
+  --bs-btn-border-color: var(--primaryActionBg);
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #2c3e50;
+  --bs-btn-hover-border-color: #2c3e50;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #2c3e50;
+  --bs-btn-active-border-color: #2c3e50;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #66717d;
+  --bs-btn-disabled-border-color: #66717d;
+}
+
+a {
+  color: var(--primaryActionBg);
+}
+
+a:hover {
+  color: #2c3e50;
+}
+
+.text-primary {
+  color: var(--primaryActionBg) !important;
+}
+
+input,
+h4 {
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.btn {
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  padding: 0.5rem 1rem;
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  /* font-size: 80%; */
+  /* text-transform: uppercase; */
+  letter-spacing: 0.1rem;
+
+}
+
+select {
+  /* font-family: 'Merriweather', serif; */
+  font-family: "Varela Round", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  letter-spacing: 0.1rem;
+}
+
+.align-center {
+  align-items: center;
+}
+
+input.form-control:not(:placeholder-shown) ~ label {
+  color: rgb(153, 153, 153) !important;
+}
+
+/* This will make the background transparent for label when input is active or active ,etc*/
+.form-floating > .form-control-plaintext ~ label::after,
+.form-floating > .form-control:focus ~ label::after,
+.form-floating > .form-control:not(:placeholder-shown) ~ label::after,
+.form-floating > .form-select ~ label::after {
+  background-color: transparent;
+}
+#mainLoader {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: calc(100vh - var(--header-height));
+	height: 100%;
+	width: 100%;
+}
+#mainLoader .loader-body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	gap: 30px;
+}
+#mainLoader .loader-body .spinner-border {
+	color: rgb(25, 128, 128) !important;
+}
+#mainLoader .loader-body .loader-text{
+	font-size: 1.5rem;
+}
+.button-animations{
+  transition-duration: .2s;
+}
+.button-animations:active{
+  transform: scale(1.05);
+}
+.button-animations:hover{
+  box-shadow:0 3px 6px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.22) !important;
+}
+.active-animations-5{
+  transition-duration: .2s;
+}
+.active-animations-5:active{
+  transform: scale(1.1);
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.flex-1{
+ flex: 1;
+}
+.hover-shadow:hover{
+ box-shadow: 0 3px 6px rgba(0,0,0,0.12), 0 4px 6px rgba(0,0,0,0.22);
+}
+p{
+	margin-bottom: 0;
+}
+div:where(.swal2-container) button:where(.swal2-styled):where(.swal2-confirm){
+	background-color: var(--primaryActionBg) !important;
+}
+div:where(.swal2-icon).swal2-info{
+	border-color: var(--primaryActionBg) !important;
+	color: var(--primaryActionBg) !important;
+}
+.swal2-actions{
+	gap: .4rem;
+}
+.form-control:focus {
+	border-color: var(--primaryActionBg) !important;
+	box-shadow: 0 0 1px 1px var(--primaryActionHoverBg) !important;
+}
+
+
+
+/* Flexbox-based grid system with "my-" prefix */
+.my-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.my-col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.my-col-auto {
+    flex: 0 0 auto;
+    width: auto;
+    max-width: 100%;
+}
+
+.my-col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .my-col-sm-1 { flex: 0 0 8.333333%; max-width: 8.333333%; }
+    .my-col-sm-2 { flex: 0 0 16.666667%; max-width: 16.666667%; }
+    .my-col-sm-3 { flex: 0 0 25%; max-width: 25%; }
+    .my-col-sm-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
+    .my-col-sm-5 { flex: 0 0 41.666667%; max-width: 41.666667%; }
+    .my-col-sm-6 { flex: 0 0 50%; max-width: 50%; }
+    .my-col-sm-7 { flex: 0 0 58.333333%; max-width: 58.333333%; }
+    .my-col-sm-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
+    .my-col-sm-9 { flex: 0 0 75%; max-width: 75%; }
+    .my-col-sm-10 { flex: 0 0 83.333333%; max-width: 83.333333%; }
+    .my-col-sm-11 { flex: 0 0 91.666667%; max-width: 91.666667%; }
+    .my-col-sm-12 { flex: 0 0 100%; max-width: 100%; }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .my-col-md-1 { flex: 0 0 8.333333%; max-width: 8.333333%; }
+    .my-col-md-2 { flex: 0 0 16.666667%; max-width: 16.666667%; }
+    .my-col-md-3 { flex: 0 0 25%; max-width: 25%; }
+    .my-col-md-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
+    .my-col-md-5 { flex: 0 0 41.666667%; max-width: 41.666667%; }
+    .my-col-md-6 {flex: 0 0 50%;max-width: 50%;}
+    .my-col-md-7 { flex: 0 0 58.333333%; max-width: 58.333333%; }
+    .my-col-md-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
+    .my-col-md-9 { flex: 0 0 75%; max-width: 75%; }
+    .my-col-md-10 { flex: 0 0 83.333333%; max-width: 83.333333%; }
+    .my-col-md-11 { flex: 0 0 91.666667%; max-width: 91.666667%; }
+    .my-col-md-12 { flex: 0 0 100%; max-width: 100%; }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .my-col-lg-1 { flex: 0 0 8.333333%; max-width: 8.333333%; }
+    .my-col-lg-2 { flex: 0 0 16.666667%; max-width: 16.666667%; }
+    .my-col-lg-3 { flex: 0 0 25%; max-width: 25%; }
+    .my-col-lg-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
+    .my-col-lg-5 { flex: 0 0 41.666667%; max-width: 41.666667%; }
+    .my-col-lg-6 { flex: 0 0 50%; max-width: 50%; }
+    .my-col-lg-7 { flex: 0 0 58.333333%; max-width: 58.333333%; }
+    .my-col-lg-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
+    .my-col-lg-9 { flex: 0 0 75%; max-width: 75%; }
+    .my-col-lg-10 { flex: 0 0 83.333333%; max-width: 83.333333%; }
+    .my-col-lg-11 { flex: 0 0 91.666667%; max-width: 91.666667%; }
+    .my-col-lg-12 { flex: 0 0 100%; max-width: 100%; }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .my-col-xl-1 { flex: 0 0 8.333333%; max-width: 8.333333%; }
+    .my-col-xl-2 { flex: 0 0 16.666667%; max-width: 16.666667%; }
+    .my-col-xl-3 { flex: 0 0 25%; max-width: 25%; }
+    .my-col-xl-4 { flex: 0 0 33.333333%; max-width: 33.333333%; }
+    .my-col-xl-5 { flex: 0 0 41.666667%; max-width: 41.666667%; }
+    .my-col-xl-6 { flex: 0 0 50%; max-width: 50%; }
+    .my-col-xl-7 { flex: 0 0 58.333333%; max-width: 58.333333%; }
+    .my-col-xl-8 { flex: 0 0 66.666667%; max-width: 66.666667%; }
+    .my-col-xl-9 { flex: 0 0 75%; max-width: 75%; }
+    .my-col-xl-10 { flex: 0 0 83.333333%; max-width: 83.333333%; }
+    .my-col-xl-11 { flex: 0 0 91.666667%; max-width: 91.666667%; }
+    .my-col-xl-12 { flex: 0 0 100%; max-width: 100%; }
+}
+p.h1{
+	box-sizing: border-box;
+	color: rgb(51, 50, 56);
+	display: block;
+	font-family: "DM Serif Display", serif;
+	font-feature-settings: "clig" 0, "liga" 0;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 400;
+}

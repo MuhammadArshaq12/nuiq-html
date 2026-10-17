@@ -1,0 +1,97 @@
+/* Frequently Asked Questions */
+
+#faqSection #accordionExample {
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+}
+
+#faqSection .accordion-button:not(.collapsed) {
+	background-color: transparent !important;
+}
+
+#faqSection .accordion-button:focus {
+	box-shadow: none !important;
+}
+
+#faqSection .accordion-item {
+	border-radius: 0.25rem !important;
+	border: 1px solid var(--Neutral-Colors-Color-600, #d4d2e3) !important;
+}
+
+#faqSection .accordion button {
+	padding: 1rem 1.5rem !important;
+}
+
+#faqSection .accordion-item .h2 button {
+	color: var(--Custom-Styles-Neutrals-N500, #3D4545);
+	/* H6/medium */
+	font-family: "DM Sans";
+	font-size: 1.4375rem;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+}
+
+#faqSection .accordion-item p {
+	color: var(--Custom-Styles-Neutrals-N400, #4C5353);
+text-align: start;
+	/* Base/regular */
+	font-family: "DM Sans";
+	font-size: 1rem;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.5rem; /* 150% */
+	letter-spacing: 0.03125rem;
+}
+
+.faq-btn{
+	padding: 1rem 2.5rem !important;
+}
+
+#faqSection #accordionExample {
+	padding: 0 6rem;
+}
+
+@media screen and (max-width: 991px) {
+	#faqSection #accordionExample {
+		padding: 0;
+	}
+}
+
+@media screen and (max-width: 765px) {
+	#faqSection #accordionExample {
+		padding: 0 2rem;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	#faqSection #accordionExample {
+		padding: 0 1rem;
+	}
+
+	#faqSection .accordion-item .h2 button {
+		color: var(--Custom-Styles-Neutrals-N500, #3D4545);
+
+		/* Base/bold */
+		font-family: "DM Sans";
+		font-size: 1rem;
+		font-style: normal;
+		font-weight: 700;
+		line-height: 1.4375rem; /* 143.75% */
+		letter-spacing: 0.03125rem;
+	}
+	
+	#faqSection .accordion-item p {
+		color: var(--Custom-Styles-Neutrals-N400, #4C5353);
+
+		/* Base/regular */
+		font-family: "DM Sans";
+		font-size: 1rem;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 1.5rem; /* 150% */
+		letter-spacing: 0.03125rem;
+	}
+
+}

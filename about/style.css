@@ -1,0 +1,379 @@
+.col-centered {
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#about-us h1, #about-us .h1  {
+  font-family: "DM Sans", sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #030d0d;
+}
+
+#about-us p {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #3d4545;
+}
+
+#our-mission {
+  position: relative;
+  max-width: 100rem;
+  margin: 0 auto;
+}
+
+#dotted-ornament {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+#our-misson-overlay {
+  position: absolute;
+  right: 15%;
+  top: 0;
+}
+
+#our-misson-overlay-img {
+  width: 31.25rem;
+}
+
+#ellipse {
+  width: 33.5rem;
+  right: -1rem;
+  top: -1rem;
+  position: absolute;
+}
+
+#our-mission-text-container {
+  gap: 1.5rem;
+}
+
+#our-mission-text {
+  position: absolute;
+  left: 5rem;
+  top: 65%;
+  transform: translateY(-50%);
+  max-width: 33.5rem;
+}
+
+#cta-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45.625rem;
+  height: 25.5rem;
+  background-image: url("assets/our-vision/Bottom-card.png");
+}
+
+#cta-card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  max-width: 31.625rem;
+}
+
+#cta-card .h1 {
+  color: var(--Default-White, #fff);
+  text-align: center;
+
+  /* H4/medium */
+  font-family: "DM Sans";
+  font-size: 2.0625rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+#cta-card p {
+  color: var(--Custom-Styles-Neutrals-N10, #fafafa);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Body/Default */
+  font-family: "DM Sans";
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.875rem; /* 166.667% */
+}
+
+#cta-card button {
+  padding: 1.25rem 2.5rem;
+  border-radius: 0.25rem;
+  margin-top: 0.5rem;
+  background: transparent !important;
+  color: white;
+  border: 1px solid #b4b2b7 !important;
+}
+
+@media screen and (max-width: 1390px) {
+  #our-misson-overlay {
+    top: -5%;
+  }
+
+  #our-misson-overlay-img {
+    width: 25rem;
+  }
+
+  #ellipse {
+    width: 26.80001057032403rem;
+  }
+
+  #dotted-ornament {
+    width: 12rem;
+  }
+
+  #our-mission-text {
+    left: 2rem;
+    top: 70%;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  #cta-card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    max-width: 31.625rem;
+  }
+
+  #cta-card .h1 {
+    color: var(--Default-White, #fff);
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 1.54688rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  #cta-card p {
+    color: var(--Custom-Styles-Neutrals-N10, #fafafa);
+    text-align: center;
+    font-feature-settings: "clig" off, "liga" off;
+    font-family: "DM Sans";
+    font-size: 0.84375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.40625rem; /* 166.667% */
+  }
+
+  #cta-card button {
+    padding: 0.9375rem 1.875rem;
+  }
+  /*  */
+  .about-us-section-img {
+    justify-content: end;
+  }
+
+  .about-us-section-img:nth-child(1) {
+    justify-content: center;
+  }
+
+  .about-us-section-img img {
+    width: 70% !important;
+  }
+
+  .about-us-section-text .second-section p,
+  .about-us-section-text .second-section .h1 {
+    text-align: center !important;
+  }
+  /*  */
+
+  #our-mission {
+    position: relative;
+    max-width: 100rem;
+    margin: 0 auto;
+  }
+
+  #dotted-ornament {
+    width: 9.3rem;
+  }
+
+  #our-misson-overlay {
+    position: absolute;
+    right: 15%;
+    top: 0;
+  }
+
+  #our-misson-overlay-img {
+    width: 18.16406rem;
+  }
+
+  #ellipse {
+    width: 19.47188rem;
+  }
+
+  #our-mission-background {
+  }
+
+  #our-mission-background img {
+  }
+
+  #our-mission-text {
+    position: absolute;
+    left: 2rem;
+    top: 65%;
+    transform: translateY(-50%);
+    max-width: 22.625rem;
+  }
+
+  #our-mission-text-container {
+    gap: 0.5rem;
+  }
+
+  #our-mission-text .h1 {
+    font-size: 1.4375rem !important;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #cta-card {
+    width: 24.875rem;
+    height: 13.8rem;
+  }
+
+  #cta-card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: 18rem;
+  }
+
+  #cta-card .h1 {
+    color: var(--Default-White, #fff);
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 0.95413rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+
+  #cta-card p {
+    color: var(--Custom-Styles-Neutrals-N10, #fafafa);
+    text-align: center;
+    font-family: "DM Sans";
+    font-size: 0.84744rem !important;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  #cta-card button {
+    padding: 0.6815rem 1.363rem !important;
+    font-size: 0.84519rem !important;
+  }
+
+  /*  */
+
+  #our-misson-overlay-img {
+    width: 14rem;
+  }
+
+  #ellipse {
+    width: 15.00800591938146rem;
+    right: -0.5rem;
+    top: -0.5rem;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  /*  */
+
+  .about-us-section-img {
+    justify-content: center;
+  }
+
+  .about-us-section-img img {
+    width: 100% !important;
+  }
+
+  /*  */
+
+  .about-us-section-img {
+    justify-content: center;
+    width: 100%;
+  }
+  .about-us-section-img img {
+    width: 100%;
+  }
+
+  .about-us-section-img:nth-child(1) {
+    justify-content: center;
+  }
+
+  .about-us-section-img img {
+    width: 70% !important;
+  }
+
+  .about-us-section-text .second-section p,
+  .about-us-section-text .second-section .h1 {
+    text-align: center !important;
+  }
+  /*  */
+
+  #our-mission {
+    position: relative;
+    max-width: 100rem;
+    margin: 0 auto;
+  }
+
+  #dotted-ornament {
+    width: 5.375rem;
+  }
+
+  #our-misson-overlay {
+    position: absolute;
+    right: 15%;
+    top: 2rem;
+  }
+
+  #our-misson-overlay-img {
+    width: 10.49806rem;
+  }
+
+  #ellipse {
+    width: 11.25392475871584rem;
+    right: -0.5rem;
+    top: -0.5rem;
+  }
+
+  #our-mission-text {
+    left: 1rem;
+    max-width: 18.5625rem;
+  }
+
+  #our-mission-text .h1 {
+    font-size: 1.75rem !important;
+  }
+
+  #our-mission-text p {
+    font-size: 1rem !important;
+  }
+
+  #our-mission-vector {
+    height: 25rem;
+  }
+
+  #our-mission-text-containe {
+    gap: 0.5rem;
+  }
+}
