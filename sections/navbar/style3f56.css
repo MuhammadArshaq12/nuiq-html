@@ -1,0 +1,222 @@
+html{
+	overflow: unset !important;
+	height: 100%;
+}
+body{
+	display: flex;
+	flex-direction: column;
+	overflow: unset !important;
+	height: 100%;
+}
+header{
+	position: unset !important;
+	z-index: unset !important;
+}
+main, .main{
+	flex-grow: 1;
+	height: calc(100% - var(--header-height));
+	overflow:auto;
+}
+header {
+  /* position: sticky;
+  top: 0;
+  z-index: 100; */
+  background: #fff;
+}
+header .btn-lg,
+header .btn {
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+}
+header .btn-outline-primary {
+  color: #f37154 !important;
+  border: 1px solid #f37154 !important;
+}
+header .btn-outline-primary a {
+  color: #f37154 !important;
+  text-decoration: none;
+}
+
+header .btn-outline-primary:active,
+header .btn-outline-primary:hover {
+  border: 1px solid #f37154 !important;
+  background-color: #fef1ee !important;
+}
+header .btn-outline-primary:active a,
+header .btn-outline-primary:hover a {
+  color: #f37154 !important;
+}
+header .btn-primary {
+  background: #f37154 !important;
+  border: 1px solid #f37154 !important  ;
+}
+
+header .btn-primary a {
+  color: #fff !important;
+}
+header .btn-primary:active,
+header .btn-primary:hover {
+  background: #aa4f3b !important;
+  border: 1px solid #f37154 !important  ;
+}
+
+header .nav-item a {
+  color: #5d5a88 !important;
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.125rem;
+}
+
+header .navbar-toggler {
+  border: none;
+  padding: 0 !important;
+}
+header .navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+header .nav-item img {
+  display: none;
+}
+
+/* border for header in small screens adable in the script */
+.headerBorderBottom{
+  border-bottom: 1px solid #b4b2b7;
+}
+
+.navbar-nav{
+  padding-right: 1rem !important;
+}
+.active-menu-item {
+  border-bottom: 2px solid #198080 !important;
+}
+
+#navLogo {
+  min-width: 6.25rem !important;
+  height: 100%;
+}
+.nav-link:hover{
+color: #f37154 !important;
+}
+.nav-link:active{
+  transform: scale(1.1);
+}
+
+.nav-link:focus-visible {
+  box-shadow: none !important;
+}
+
+@media screen and (max-width: 991px) {
+  .nav-item a {
+    font-size: 1rem;
+  }
+  .navbar-nav{
+    padding-right: 0 !important;
+  }
+}
+
+
+@media screen and (max-width: 765px) {
+  .nav-link:hover{
+    color: black !important;
+  }
+  .nav-link:active{
+    transform: none;
+  }
+  .active-menu-item{
+    border-bottom: 0 !important;
+  }
+  .navbar {
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
+  .navbar-toggler {
+    outline: none !important;
+  }
+
+  .navbar-toggler svg {
+    transform: scale(2);
+  }
+
+  .navbar-toggler:focus,
+  a:focus {
+    outline: none;
+  }
+  .navbar-toggler:focus {
+    outline: none !important;
+    box-shadow: none;
+  }
+
+  .offcanvas-body {
+    padding-top: 2rem;
+    border-left: 1px solid #b4b2b7;
+  }
+
+  .offcanvas {
+    max-width: 70% !important;
+    /* border-top: 1px solid var(--Custom-Styles-Neutrals-N90, #868B8B); */
+  }
+
+  .offcanvas-backdrop {
+    opacity: 0.5 !important;
+  }
+
+  header .nav-item img {
+    display: block;
+  }
+
+  header .nav-item {
+    width: 100%;
+    padding: 0.5rem 1rem;
+    display: flex;
+    gap: 0.75rem;
+  }
+
+  header .nav-item .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+  }
+
+  header .nav-item:hover,
+  .nav-item:active {
+    background: var(--Foundation-Secondary-S50, #ebf2f3);
+    cursor: pointer;
+  }
+
+  header .nav-item a {
+    font-family: "Inter", sans-serif !important;
+    font-size: 16px !important;
+    font-style: normal !important;
+    font-weight: 500 !important;
+    line-height: 1.25rem !important; /* 125% */
+    letter-spacing: 0.005rem !important;
+  }
+
+  .nav-item a {
+    font-size: 1rem !important;
+  }
+
+  .navbar svg.nuiq-logo {
+    width: 4.5rem;
+    height: 1.4375rem;
+  }
+  .navbar-actions {
+    gap: 13px !important;
+  }
+}
+header .navbar .navbar-container{
+	max-height: 90px;
+}
+@media (max-width: 576px) {
+    header .navbar .navbar-container{
+		max-height: 58px;
+	}
+}

@@ -1,0 +1,130 @@
+form .row:not(:last-child) {
+  gap: 2rem;
+  padding: 0.5rem 0;
+}
+.main-header{
+	/* border-bottom: 2px solid #2F4F4E; */
+	width: fit-content;
+	padding-bottom: 7px;
+	margin: 0 auto;
+}
+.contact-banner {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+#contact-page {
+  margin-top: 1rem !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.contact-banner {
+  position: relative;
+}
+
+.contact-banner img {
+  height: 37rem;
+  object-position: 50% 30%;
+  padding-right: 6rem;
+  object-fit: cover;
+}
+
+#contact-form {
+  max-width: 93vw;
+  height: fit-content;
+  padding: 2rem 1.5rem;
+  border-radius: 12px;
+  background-color: white ;
+  z-index: 99;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus {
+  border-color: #198080 !important;
+  box-shadow: 0 0 0 .25rem #19808033;
+}
+
+#contact-form a {
+  color: #378082 !important;
+}
+
+#contact-form a:active {
+  color: #fff !important;
+}
+
+.contact-banner-footer {
+  width: 100%;
+  padding: 4.5rem 0;
+  border-right: 4px solid #198080 !important ;
+}
+
+.contact-banner-footer ul {
+  display:  flex;
+  flex-direction: column;
+  justify-content: left;
+  padding-left: 0 !important;
+  gap: 1.25rem;
+  margin-top: 1rem;
+}
+
+/* .contact-banner-footer li {
+  display: flex;
+  align-items: start;
+  gap: 0.5rem;
+} */
+
+.contact-banner-footer li a {
+  text-decoration: none !important;
+  position: relative;
+  top: 2px;
+}
+.contact-banner-footer li span{
+  position: relative;
+  left: 23px;
+}
+
+.contact-banner-footer .h1 {
+  font-family: "DM Sans" ;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #303939;
+}
+
+.contact-banner-footer a,
+.contact-banner-footer p {
+  font-family: "DM Sans";
+  font-size: 18px;
+  color: #303939  ;
+  text-align: left;
+  line-height: 110%;
+}
+.contact-banner-footer a:hover {
+  color: #198080  ;
+} 
+
+.address {
+  max-width: 215px;
+}
+
+@media screen and (max-width: 1038px) {
+  #contact-page {
+    flex-direction: column-reverse;
+  }
+  .contact-banner-footer {
+    flex-basis: auto !important;
+    border-right: none !important;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  #contact-form {
+    padding: 0;
+  }
+  form .row:not(:last-child) {
+    gap: 1rem;
+    padding: 0.5rem 0;
+  }
+}

@@ -1,0 +1,1584 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap-icons@1.11.3\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff2?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap-icons@1.11.3\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css?ver=6.8.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap@5.3.0-alpha3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap@5.3.0-alpha3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap@5.3.3\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\bootstrap@5.3.3\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\jquery@3.6.0\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\npm\sweetalert2@11
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=DM+Serif+Display&family=Noto+Sans+Display&family=Noto+Sans:wght@700&display=swap
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&family=Noto+Sans:wght@700&display=swap
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter:wght@500&family=Oswald&family=Volkhov:wght@700&display=swap
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter:regular,800,700|Raleway:800,700,regular|Poppins:600,regular&display=swap
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Inter:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Raleway:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.8.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Varela+Round
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\dmsans\v17\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\dmserifdisplay\v17\-nFnOHM81r4j6k0gjAW3mujVU2B2K_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\firacode\v27\uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dpRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\notosans\v42\o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyAaBN9d.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTE.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\notosansdisplay\v30\RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v32/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\nunito\v32\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\oswald\v57\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVsEpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtapbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvoorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4bbLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4cHLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejLDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4ejMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4TbMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4VrMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4WjNDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v37/1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\raleway\v37\1Pt_g8zYS_SKggPNyCgSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\varelaround\v21\w8gdH283Tvk__Lua32TysjIfp8uK.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/volkhov/v18/SlGVmQieoJcKemNeeY4hoHQ.ttf
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\s\volkhov\v18\SlGVmQieoJcKemNeeY4hoHQ.ttf
+Content Type: font/ttf
+
+Uri: https://nuiq.com/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/about/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/about/assets/dotted-ornament.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\dotted-ornament.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/elliptical-background.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\elliptical-background.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/maslows-pyramid.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\maslows-pyramid.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/our-vision/Bottom-card.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\our-vision\Bottom-card.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/our-vision/couples_session.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\our-vision\couples_session.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/our-vision/group_session.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\our-vision\group_session.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/our-vision/meeting_closeup.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\our-vision\meeting_closeup.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/therapist-laptop-session.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\therapist-laptop-session.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/two-women-laptop.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\two-women-laptop.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/assets/vector.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\assets\vector.png
+Content Type: image/png
+
+Uri: https://nuiq.com/about/style.css?v=2
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\about\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/assets/favicons/favicon.ico
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\favicons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://nuiq.com/assets/images/kipuintegration.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\kipuintegration.png
+Content Type: image/png
+
+Uri: https://nuiq.com/assets/images/logos/nuiq-logo.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\logos\nuiq-logo.png
+Content Type: image/png
+
+Uri: https://nuiq.com/assets/images/logo_hipaa.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\logo_hipaa.png
+Content Type: image/png
+
+Uri: https://nuiq.com/blog/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/category/blog/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\blog\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/category/blog/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\blog\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/category/support/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\support\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/category/support/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\support\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/category/uncategorized/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/category/uncategorized/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/diversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\diversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/diversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\diversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/ensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\ensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/ensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\ensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/hello-world/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\hello-world\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/hello-world/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\hello-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-enable-microphone-access-on-ios/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-enable-microphone-access-on-ios\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-enable-microphone-access-on-ios/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-enable-microphone-access-on-ios\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-use-telehealth-features-on-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-telehealth-features-on-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-use-telehealth-features-on-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-telehealth-features-on-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-use-the-import-feature-on-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-import-feature-on-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-use-the-import-feature-on-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-import-feature-on-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-use-the-listen-feature-on-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-listen-feature-on-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-use-the-listen-feature-on-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-listen-feature-on-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-use-the-summary-feature-on-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-summary-feature-on-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-use-the-summary-feature-on-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-summary-feature-on-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/how-to-use-the-type-feature-on-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-type-feature-on-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/how-to-use-the-type-feature-on-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\how-to-use-the-type-feature-on-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/perfecting-the-art-of-soap-notes-for-mental-health-professionals/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\perfecting-the-art-of-soap-notes-for-mental-health-professionals\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/perfecting-the-art-of-soap-notes-for-mental-health-professionals/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\perfecting-the-art-of-soap-notes-for-mental-health-professionals\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/simplify-your-session-notes-with-q-notes-by-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\simplify-your-session-notes-with-q-notes-by-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/simplify-your-session-notes-with-q-notes-by-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\simplify-your-session-notes-with-q-notes-by-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/ai/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\ai\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/ai/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\ai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/artificial-intelligence/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\artificial-intelligence\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/artificial-intelligence/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\artificial-intelligence\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/automation/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\automation\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/automation/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\automation\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/guide/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\guide\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/guide/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\guide\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/hipaa/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\hipaa\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/hipaa/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\hipaa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/privacy/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\privacy\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/privacy/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\privacy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/soap-notes/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\soap-notes\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/soap-notes/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\soap-notes\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/tag/technical-support/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\technical-support\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/tag/technical-support/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\tag\technical-support\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/the-future-of-therapy-augmented-by-ai/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\the-future-of-therapy-augmented-by-ai\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/the-future-of-therapy-augmented-by-ai/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\the-future-of-therapy-augmented-by-ai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/blog/troubleshooting-microphone-issues-while-using-nuiq/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\troubleshooting-microphone-issues-while-using-nuiq\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/blog/troubleshooting-microphone-issues-while-using-nuiq/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\blog\troubleshooting-microphone-issues-while-using-nuiq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/comments/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/common.css?v=18
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\common.css
+Content Type: text/css
+
+Uri: https://nuiq.com/common.js?v=28
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\common.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/common/libs/emailverification/script.js
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\common\libs\emailverification\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/common/libs/emailverification/style.css
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\common\libs\emailverification\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/common/websiteStyle.css?v=5
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\common\websiteStyle.css
+Content Type: text/css
+
+Uri: https://nuiq.com/contact/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/contact/assets/icons/email.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\assets\icons\email.png
+Content Type: image/png
+
+Uri: https://nuiq.com/contact/assets/icons/mark.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\assets\icons\mark.png
+Content Type: image/png
+
+Uri: https://nuiq.com/contact/assets/icons/phone.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\assets\icons\phone.png
+Content Type: image/png
+
+Uri: https://nuiq.com/contact/script.js?v=2
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/contact/style.css?v=5
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\contact\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/events/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\events\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/events/assets/banner.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\events\assets\banner.png
+Content Type: image/png
+
+Uri: https://nuiq.com/events/script.js?v=20
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\events\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/events/style.css?v=5
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\events\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/feed/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nuiq.com/login/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/login/reset/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\reset\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/login/reset/script.js?v=7
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\reset\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/login/reset/style.css
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\reset\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/login/script.js?v=9
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/login/style.css?v=2
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\login\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/privacy/?tab=privacy-policy
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\privacy\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/privacy/?tab=terms-of-service
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\privacy\index-1.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/privacy/script.js?v=5
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\privacy\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/privacy/style.css?v=4
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\privacy\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/sections/faq/style.css?v=2
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\faq\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/sections/footer/assets/social-media-icons/Facebook.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\assets\social-media-icons\Facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/footer/assets/social-media-icons/Instagram.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\assets\social-media-icons\Instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/footer/assets/social-media-icons/LinkedIn.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\assets\social-media-icons\LinkedIn.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/footer/assets/social-media-icons/Twitter.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\assets\social-media-icons\Twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/footer/assets/social-media-icons/YouTube.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\assets\social-media-icons\YouTube.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/footer/script.js?v=2
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/sections/footer/style.css?v=3
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\footer\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/blog-page.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\blog-page.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/calendar-2.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\calendar-2.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/hdd-network.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\hdd-network.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/home.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\home.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/person.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\person.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/assets/navbar-icons/sms.svg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\assets\navbar-icons\sms.svg
+Content Type: image/svg+xml
+
+Uri: https://nuiq.com/sections/navbar/script.js?v=7
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/sections/navbar/style.css?v=11
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\sections\navbar\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/signup/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\signup\index.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/signup/?pro
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\signup\index-2.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/signup/?trial
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\signup\index-1.htm
+Content Type: text/html
+
+Uri: https://nuiq.com/signup/script.js?v=12
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\signup\script.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/signup/style.css?v=4
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\signup\style.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css?ver=3.5.10
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\kadence-blocks\dist\style-blocks-column.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/kadence-blocks/dist/style-blocks-iconlist.css?ver=3.5.10
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\kadence-blocks\dist\style-blocks-iconlist.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css?ver=3.5.10
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\kadence-blocks\dist\style-blocks-rowlayout.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks.css?ver=3.16.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_blocks.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks_responsive.css?ver=3.16.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_blocks_responsive.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_block_accordion.js?ver=3.16.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_block_accordion.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_block_count_up.js?ver=3.16.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_block_count_up.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/comments.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\comments.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/content.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\content.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\footer.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/global.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\global.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/header.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\header.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/kadence-splide.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\kadence-splide.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/css/related-posts.min.css?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\css\related-posts.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/js/navigation.min.js?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\js\navigation.min.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/js/splide-init.min.js?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\js\splide-init.min.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/wp-content/themes/kadence/assets/js/splide.min.js?ver=1.2.25
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\themes\kadence\assets\js\splide.min.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/1-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\1-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/1824-1-300x200.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\1824-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/1824-1-768x512.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\1824-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/1824-1.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\1824-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/2.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\2.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/2148568138.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\2148568138.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/3.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\3.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract10-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract10-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract10-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract10-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract10-1-768x768.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract10-1-768x768.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract10-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract10-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract5-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract5-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract5-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract5-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract5-1-768x768.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract5-1-768x768.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/abstract5-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\abstract5-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/forms1-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\forms1-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/forms1-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\forms1-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/forms1-1-768x768.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\forms1-1-768x768.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/forms1-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\forms1-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1-1024x683.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1-1536x1024.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1-2048x1366.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1-2048x1366.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1-300x200.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1-768x512.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/future-of-therapy-scaled-1.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\future-of-therapy-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-1-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-1-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-1-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-1-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-1024x1024.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-1024x1024.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-1536x1536.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-1536x1536.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-2048x2048.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-2048x2048.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-768x768.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-768x768.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-1-2-scaled.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-1-2-scaled.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-2-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-2-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-2-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-2-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-2-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-2-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-1024x717.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-1024x717.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-1536x1075.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-1536x1075.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-2048x1434.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-2048x1434.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-300x210.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-300x210.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-768x538.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-768x538.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-3-scaled.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-3-scaled.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1-1024x679.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1-1024x679.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1-1536x1019.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1-1536x1019.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1-2048x1358.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1-2048x1358.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1-300x199.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1-768x509.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1-768x509.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/hero-scaled-1.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\hero-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/kipuintegration-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\kipuintegration-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/logo_hipaa-1-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\logo_hipaa-1-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/mic_perms-1-1-150x150.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\mic_perms-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/mic_perms-1-1-300x300.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\mic_perms-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/mic_perms-1-1-768x768.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\mic_perms-1-1-768x768.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/mic_perms-1-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\mic_perms-1-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/nuiq-logo.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\nuiq-logo.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/nuiq-notebook-icon.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\nuiq-notebook-icon.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1-1024x683.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1-1536x1024.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1-2048x1366.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1-2048x1366.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1-300x200.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1-768x512.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/serious-looking-woman-checking-microphone-scaled-1.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\serious-looking-woman-checking-microphone-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-1025x1536.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-1025x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-1367x2048.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-1367x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-200x300.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-684x1024.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-684x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-768x1150.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-768x1150.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2024/11/young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-scaled.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2024\11\young-man-in-white-shirt-and-suspenders-holding-a-microphone-and-clipboard-while-sitting-in-a-stylish-chair-indoors.-8872464-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/EHR-integration-graphics.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\EHR-integration-graphics.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/Group-39473.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\Group-39473.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-1024x1536.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-1024x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-1365x2048.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-1365x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-200x300.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-683x1024.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-683x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-768x1152.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-768x1152.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-scaled.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\two-adults-discussing-mental-health-in-a-counseling-session-across-a-glass-table-indoors.-4098369-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/01/unnamed.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\01\unnamed.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/02/Alleva-FullColor-Logo-Footer-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\02\Alleva-FullColor-Logo-Footer-1.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1-1024x683.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1-1536x1024.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1-2048x1366.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1-2048x1366.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1-300x200.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1-768x512.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/03/blog-banner-scaled-1.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\03\blog-banner-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/08/AdvancedMD-Integrated-Partner-300x107.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\08\AdvancedMD-Integrated-Partner-300x107.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-content/uploads/2025/08/AdvancedMD-Integrated-Partner.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-content\uploads\2025\08\AdvancedMD-Integrated-Partner.png
+Content Type: image/png
+
+Uri: https://nuiq.com/welcome/wp-includes/css/dist/block-library/style.min.css?ver=6.8.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://nuiq.com/welcome/wp-includes/js/comment-reply.min.js?ver=6.8.1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\wp-includes\js\comment-reply.min.js
+Content Type: text/javascript
+
+Uri: https://nuiq.com/welcome/xmlrpc.php?rsd
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\welcome\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fdiversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fdiversity-in-documentation-soap-notes-and-their-value-across-mental-health-professions%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fensuring-data-privacy-and-hipaa-compliance-at-nuiq-a-deep-dive%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhello-world%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhello-world%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-enable-microphone-access-on-ios%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-enable-microphone-access-on-ios%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-telehealth-features-on-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-telehealth-features-on-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-import-feature-on-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-import-feature-on-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-listen-feature-on-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-listen-feature-on-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-summary-feature-on-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-summary-feature-on-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-type-feature-on-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fhow-to-use-the-type-feature-on-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fperfecting-the-art-of-soap-notes-for-mental-health-professionals%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fperfecting-the-art-of-soap-notes-for-mental-health-professionals%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fsimplify-your-session-notes-with-q-notes-by-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fsimplify-your-session-notes-with-q-notes-by-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fthe-future-of-therapy-augmented-by-ai%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Fthe-future-of-therapy-augmented-by-ai%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Ftroubleshooting-microphone-issues-while-using-nuiq%2F
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnuiq.com%2Fblog%2Ftroubleshooting-microphone-issues-while-using-nuiq%2F&format=xml
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://nuiq.com/wp-json/wp/v2/categories/1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/categories/7
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/categories/9
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/pages/272
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\pages\272
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/pages/865
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\pages\865
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/938
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\938
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/939
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\939
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/940
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\940
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/941
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\941
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/942
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\942
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/943
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\943
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/944
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\944
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/945
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\945
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/946
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\946
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/947
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\947
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/948
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\948
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/posts/949
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\posts\949
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/10
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\10
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/11
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/12
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/13
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/14
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\14
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/15
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\15
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/6
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\6
+Content Type: application/json
+
+Uri: https://nuiq.com/wp-json/wp/v2/tags/8
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\wp-json\wp\v2\tags\8
+Content Type: application/json
+
+Uri: https://stage.nuiq.com/articles/img/abstract10.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\abstract10.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/abstract5.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\abstract5.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/askmic.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\askmic.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/forms1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\forms1.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/future-of-therapy.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\future-of-therapy.jpg
+Content Type: image/jpeg
+
+Uri: https://stage.nuiq.com/articles/img/mic_perms.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\mic_perms.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/safari.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\safari.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/safarisettings.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\safarisettings.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/articles/img/settings.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\articles\img\settings.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/common/step-1.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\common\step-1.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/common/step-3.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\common\step-3.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/common/step-5.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\common\step-5.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/common/step-6.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\common\step-6.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/common/step-7.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\common\step-7.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-2.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-2.jpg
+Content Type: image/jpeg
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-3.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-3.jpg
+Content Type: image/jpeg
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-4.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-4.jpg
+Content Type: image/jpeg
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-5.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-5.jpg
+Content Type: image/jpeg
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-6.png
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-6.png
+Content Type: image/png
+
+Uri: https://stage.nuiq.com/assets/images/support/telehealth/step-mac.jpg
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\assets\images\support\telehealth\step-mac.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/tr?id=746504077291179&ev=PageView&noscript=1
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\tr
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-722609817
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\gtag\js-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-JKR9Y0T45K
+File Name: C:\Users\USER\Downloads\nuiq\nuiq.com\gtag\js
+Content Type: application/javascript
+

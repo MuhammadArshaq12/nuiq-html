@@ -1,0 +1,126 @@
+footer {
+  background: #2f4f4e;
+}
+
+footer h5, 
+footer .h5 {
+  color: var(--Neutral-Colors-White, #fff);
+  font-feature-settings: "clig" off, "liga" off;
+  text-align: start;
+  /* Text single/300/Bold */
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.25rem; /* 100% */
+}
+
+footer li {
+  color: #fff;
+  text-align: start;
+  font-feature-settings: "clig" off, "liga" off;
+
+  /* Text single/200/Regular */
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.125rem; /* 100% */
+}
+
+footer p {
+  color: var(--Neutral-Colors-White, #fff);
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+footer .nav-item a {
+  color: #fff !important;
+  text-align: center;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.125rem;
+  font-style: normal;
+  font-weight: 200 !important;
+  line-height: 1.125rem;
+}
+
+footer .form-btn {
+  display: inline-flex;
+  padding: 1.125rem 2.5rem;
+  align-items: flex-start;
+  gap: 0.5rem;
+  border-radius: 0.75rem;
+  color: white;
+  background-color: inherit;
+  border: 1px solid var(--Neutral-Colors-White, #fff);
+}
+
+.footer-logo{
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 2rem;
+  gap: 1.75rem;
+}
+
+#copyright{
+  font-size: 1rem !important;
+}
+#copyright span a{
+text-decoration: none !important;
+color: white;
+}
+#copyright span a:hover,
+#copyright span a:active{
+  color: #b1b4b4;
+}
+#social-media ul li {
+  display: flex;
+  justify-content: center;
+  align-self: start;
+  gap: 0.5rem;
+}
+
+#social-media ul li a {
+  text-decoration: underline;
+}
+
+#footer-nav-container div {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+#footer-nav-container div ul {
+  gap: 0.5rem;
+}
+
+#footer-nav-container div ul li a:hover,
+#footer-nav-container div ul li a:active {
+  color: #f37154 !important;
+}
+.integrations-box img.kipu-integration {
+  filter: brightness(0) invert(1);
+}
+
+@media screen and (max-width: 991px) {
+}
+
+@media screen and (max-width: 765px) {
+  #footer-nav-container div {
+    gap: 1.5rem;
+    max-width: 30rem;
+  }
+  .footer-logo{
+    padding-bottom: 4rem;
+  }
+  
+}
+
+@media screen and (max-width: 576px) {
+}
